@@ -1,0 +1,2 @@
+{"nombre":"Aaròn","edad":21,"correo":"personal.personal"}
+{"nombre":"panfilo","edad":30,"correo":"sexo.sexo"}
